@@ -1,8 +1,8 @@
 body {
-    font-family: 'Tajawal', sans-serif; /* خط عربي جميل، يمكنك تغييره */
+    font-family: 'Tajawal', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    background-color: #f4f4f4;
     color: #333;
     text-align: center;
 }
@@ -44,7 +44,7 @@ h2 {
     padding: 20px;
     margin: 15px auto;
     max-width: 500px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s;
 }
 
@@ -65,14 +65,14 @@ h2 {
 
 .cta-button {
     display: inline-block;
-    background-color: #25D366; /* لون الواتساب */
+    background-color: #25D366;
     color: white;
     padding: 15px 30px;
     text-decoration: none;
     font-size: 1.2em;
     font-weight: bold;
     border-radius: 30px;
-    transition: background-color 0.3s;
+    transition: background-color 0.2s;
 }
 
 .cta-button:hover {
